@@ -1,0 +1,23 @@
+@import "style.css";
+
+h2{
+color:cyan;
+background-color:rgb(14,179,142);
+font-weight:bolder;
+letter-spacing:4px;
+margin-bottom:5px;
+text-transform:capitalize;
+}
+
+h3{
+color:white;
+background-color:rgb(210,122,44);
+font-weight:normal;
+letter-spacing:4px;
+margin-bottom:5px;
+text-transform:capitalize;
+}
+
+h5{
+background-color:rgb(14,179,142);
+}
